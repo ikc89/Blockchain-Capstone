@@ -25,12 +25,12 @@ Finally run:
 SquareVerifier
 --------------------------
 > Contract Address: 0x644D8dE1635607185B783d214C9A943f9a5EaFb7
-> Contract ABI: [here](https://github.com/ikc89/blockchain-capstone-deneme/blob/main/eth-contracts/build/contracts/SquareVerifier.json)
+> Contract ABI: [here](https://github.com/ikc89/Blockchain-Capstone/blob/main/eth-contracts/build/contracts/SquareVerifier.json)
 
 SolnSquareVerifier
 ------------------------------
 > Contract Address: 0xFAe3F39135221eCBadE6F175eC8193eF2844eFeB
-> Contract ABI: [here](https://github.com/ikc89/blockchain-capstone-deneme/blob/main/eth-contracts/build/contracts/SolnSquareVerifier.json)
+> Contract ABI: [here](https://github.com/ikc89/Blockchain-Capstone/blob/main/eth-contracts/build/contracts/SolnSquareVerifier.json)
 
 OpenSea MarketPlace
 ------------------------------
